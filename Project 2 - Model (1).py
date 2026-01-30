@@ -2,7 +2,7 @@
 """
 Created on Sun Aug 26 23:04:09 2025
 
-@author: Shaswat Kumar
+@author: Md Juned Eqbal
 """
 
 #### Importing Libraries ####
