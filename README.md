@@ -3,9 +3,6 @@
 ## Project Overview
 
 Customer Churn Prediction is a **machine learning–based project** that identifies customers who are likely to stop using a company’s services. Retaining customers is critical for business growth, and predicting churn in advance allows organizations to take proactive retention measures such as personalized offers, improved support, or targeted engagement strategies.
-
-This project was developed as an **academic project** for the **Bachelor of Technology (Information Technology)** program at **KIIT Deemed to be University**.
-
 ---
 
 ## Objectives
@@ -127,22 +124,6 @@ Churn-Prediction/
 * Integration with CRM platforms
 * Explainable AI (SHAP / LIME) for interpretability
 * Industry-specific churn models (telecom, banking, e-commerce)
-
----
-
-## Project Team
-
-* **Harsh Singh** (2106032)
-* **Ayush Raj** (2106105)
-* **Juned Eqbal** (2106124)
-* **Megha Verma** (2106125)
-* **Shaswat Kumar** (2106152)
-* **Shruti Kumari** (2106155)
-
-**Project Guide:**
-Dr. Sarita Tripathy
-School of Computer Engineering
-KIIT Deemed to be University
 
 ---
 
